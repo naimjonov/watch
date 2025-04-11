@@ -16,7 +16,7 @@ html {
 nav {
     height: 10vh;
     width: 100%;
-    background-color: rgb(29, 33, 33);
+    background-color: rgb(81, 62, 5);
     display: flex;
     justify-content: center;
     position: fixed;
@@ -31,7 +31,9 @@ nav {
     padding: 20px;
     height: 20px;
     border-radius: 20px;
-    margin-top: px;
+    margin-top: 15px;
+    color: white;
+    margin-right: 20px;
 
     &:hover {
         background-color:#fff;
@@ -80,7 +82,7 @@ section {
 }
 
 #toshkent {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../img/toshkent.jpg')
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../img/toshkent.webp')
 
 }
 
